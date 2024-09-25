@@ -109,7 +109,7 @@ body{
 
 img{
 
-    display: flex;
+    display: auto;
 
     width: 100%;
 
